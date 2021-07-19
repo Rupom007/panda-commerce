@@ -1,0 +1,49 @@
+/* Image Slider style */
+
+.img-slider{
+    padding-top: 150px;
+    padding-bottom: 75px;
+}
+.bg-slider{
+    border-radius: 15px;
+    background-color: #fceae8;
+}
+/* Categories */
+.category{
+    margin-top: 50px;
+    margin-bottom: 75px;
+}
+.panda-watch-bg{
+    background-color: #ffa500;
+    border-radius: 15px;
+}
+.panda-bag-bg{
+    background-color: #da70d6;
+    border-radius: 15px;
+}
+.panda-shoe-bg{
+    background-color: #0000ff;
+    border-radius: 15px;
+}
+/* Card-style */
+.shoe-height{
+    margin-bottom: 75px;
+}
+.bag-height{
+    margin-bottom: 120px;
+}
+.contact{
+    background-color: #fceae8;
+    border-radius: 15px;
+    margin-bottom: 105px;
+}
+.card-shadow{
+    border-radius: 15px;
+    box-shadow: 5px 2px 20px ;
+}
+/* Button style */
+.panda-btn{
+    color: whitesmoke;
+    background-color: #c44141;
+    border-radius: 10px;
+}
